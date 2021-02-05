@@ -1,0 +1,51 @@
+ *{
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	background-color: #232323;
+}
+.sq{
+	width: 30%;
+	background-color: purple;
+	padding-bottom: 30%;
+	float: left;
+	margin: 1.66%;
+	border-radius: 15px;
+}
+#container{
+	max-width: 600px;
+	margin: 0 auto;
+}
+h1{
+	color: white;
+	text-align: center;
+	background-color: red;
+	text-transform: uppercase;
+}
+/*span{
+	color: white;
+}*/
+#stripe{
+	background-color: white;
+	height: 30px;
+	text-align: center;
+	color: black;
+}
+.highlight{
+	background-color: red;
+}
+
+button{
+	border: none;
+	background-color: unset;
+	text-align: center;
+	text-transform: uppercase;
+	height: 100%;
+	letter-spacing: 1px;
+	padding-right: 10px;
+
+}
+
+
